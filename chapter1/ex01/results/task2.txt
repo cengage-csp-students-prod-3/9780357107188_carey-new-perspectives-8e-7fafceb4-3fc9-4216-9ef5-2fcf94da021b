@@ -4,11 +4,11 @@ Check: 1
 Test: Added the `h1` element to the `<body>`
 Reason: Assertion failed: unexpectedly None : Webpage does not contain a h1 element within the body
 Error : AssertionError - unexpectedly None : Webpage does not contain a h1 element within the body
-Timestamp: 2025-12-15 16:23:35.650020
+Timestamp: 2025-12-15 16:24:53.280744
 
 Status: FAILED!
 Check: 2
 Test: `h1` element added to the website
 Reason: Assertion failed: unexpectedly None : Webpage does not contain an h1 element
 Error : AssertionError - unexpectedly None : Webpage does not contain an h1 element
-Timestamp: 2025-12-15 16:23:35.650553
+Timestamp: 2025-12-15 16:24:53.281269
